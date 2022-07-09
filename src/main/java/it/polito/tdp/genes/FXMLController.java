@@ -22,7 +22,7 @@ import javafx.scene.control.TextField;
 public class FXMLController {
 	
 	private Model model;
-
+//non cambia
     @FXML // ResourceBundle that was given to the FXMLLoader
     private ResourceBundle resources;
 
